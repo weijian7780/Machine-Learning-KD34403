@@ -103,6 +103,8 @@ Final Result and Conclusion
 | Seaborn | Statistical visualisation |
 | Scikit-learn | ML pipelines, preprocessing, models, and evaluation |
 
+pip install -r requirements.txt (If use local machine instead of google colab)
+
 ## Milestone Progress
 
 This project follows the KD34403 machine learning workflow milestones.
